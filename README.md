@@ -43,7 +43,7 @@ This project automatically detects the user’s system theme and allows manual t
 
 ## 🧩 Demo
 
-🎯 *Live Preview:* [View Dark–Light Theme Toggle][(https://krutzia.github.io/theme-toggle/))  
+🎯 *Live Preview:* [View Dark–Light Theme Toggle](https://krutzia.github.io/theme-toggle/)  
 
 Explore the live version and see how it adapts to your system’s theme.
 
